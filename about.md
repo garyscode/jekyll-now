@@ -1,10 +1,13 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-Some information about you!
+About Me
+Gary Bryant
+Oklahoma 
+Hobby Lobby
 
 ### More Information
 
