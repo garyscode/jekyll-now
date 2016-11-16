@@ -4,10 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-About Me
 Gary Bryant
-Oklahoma 
-Hobby Lobby
 
 ### More Information
 
